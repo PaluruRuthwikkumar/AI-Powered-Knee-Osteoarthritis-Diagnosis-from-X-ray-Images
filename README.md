@@ -10,7 +10,7 @@ This project provides automated diagnosis, severity classification, hospital loc
 
 ---
 
-
+## 📸 Screenshots  
 
 ### Web App Interface  
 ![Web App Screenshot](assets/streamlit_knee_ss.png)  
